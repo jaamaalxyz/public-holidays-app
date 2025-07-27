@@ -10,6 +10,11 @@ In this tutorial, you'll learn how to build a modern React application that fetc
 - **State Management**: React hooks and proper state handling
 - **Modern React Patterns**: Functional components, custom hooks, and best practices
 
+The final result will be a responsive web application that allows users to select a country and view its public holidays.
+
+> This tutorial has also been published on [Medium.com](https://medium.com/@jaamaalxyz/building-a-react-holiday-app-a-complete-tutorial-14c08b05edf1) under the title  
+> ["Building a React Holiday App: A Complete Tutorial."](https://medium.com/@jaamaalxyz/building-a-react-holiday-app-a-complete-tutorial-14c08b05edf1)
+
 ## What We'll Build
 
 A responsive web application that allows users to:
