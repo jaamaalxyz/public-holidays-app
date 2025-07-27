@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "public-holidays-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -48,5 +48,31 @@
     "typescript-eslint": "^8.35.1",
     "vite": "^7.0.4",
     "vitest": "^3.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaamaalxyz/public-holidays-app.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Md. Jamal Uddin",
+    "email": "jaamaal@example.com"
+  },
+  "description": "A React application for managing public holidays.",
+  "keywords": [
+    "react",
+    "public-holidays",
+    "holidays",
+    "calendar",
+    "typescript",
+    "vite",
+    "eslint",
+    "prettier",
+    "testing",
+    "vitest"
+  ],
+  "homepage": "https://public-holidays-app-nine.vercel.app/",
+  "bugs": {
+    "url": "https://github.com/jaamaalxyz/public-holidays-app/issues"
   }
 }

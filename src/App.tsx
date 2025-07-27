@@ -2,6 +2,7 @@ import { useState, useCallback } from 'react';
 import { ErrorBoundary } from './components/ErrorBoundary';
 import { CountrySelector } from './components/CountrySelector';
 import { HolidayList } from './components/HolidayList';
+import { Footer } from './components/Footer';
 
 function App() {
   const [selectedCountry, setSelectedCountry] = useState<string>('');
@@ -31,6 +32,8 @@ function App() {
 
               <HolidayList countryIsoCode={selectedCountry} />
             </main>
+
+            <Footer />
           </div>
         </div>
       </div>
